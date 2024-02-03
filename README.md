@@ -36,6 +36,7 @@ Make sure you have the following prerequisites installed on your system:
 
 Before generating an image, you need to set up your configuration. Open the `config.json` file in the root directory. The configuration file has the following parameters:
 
+- `"model"`: The Model you'd like to use. A list of them can be found under res/models/models.json. Copy the name and insert it into the JSON.
 - `"steps"`: The number of steps the AI should take during the generation process.
 - `"sampler_name"`: The name of the sampler to be used.
 - `"width"` and `"height"`: The dimensions of the generated image.
