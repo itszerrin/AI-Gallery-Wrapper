@@ -14,7 +14,7 @@ Welcome to AI Gallery Wrapper, a powerful CLI tool for interacting with the AI G
 
 Make sure you have the following prerequisites installed on your system:
 - Python 3.7 or higher
-- Git
+- [Requests](https://pypi.org/project/requests/)
 - [Fake User Agent](https://pypi.org/project/fake-useragent/)
 
 ## Installation
