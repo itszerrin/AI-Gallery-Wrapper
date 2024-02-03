@@ -1,0 +1,17 @@
+{
+    "POST": "/api/v2/generate/async HTTP/1.1",
+    "Host": "stablehorde.net",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Referer": "https://aigallery.app/",
+    "Content-Type": "application/json",
+    "apikey": "0000000000",
+    "Content-Length": "498",
+    "Origin": "https://aigallery.app",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site"
+}

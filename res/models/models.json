@@ -1,0 +1,533 @@
+[
+    {
+        "performance": 870180.0,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Abyss OrangeMix",
+        "count": 3
+    },
+    {
+        "performance": 749293.5,
+        "queued": 197099520.0,
+        "jobs": 12.0,
+        "eta": 16,
+        "type": "image",
+        "name": "AlbedoBase XL (SDXL)",
+        "count": 16
+    },
+    {
+        "performance": 833703.0,
+        "queued": 199884800.0,
+        "jobs": 8.0,
+        "eta": 15,
+        "type": "image",
+        "name": "Anything Diffusion",
+        "count": 15
+    },
+    {
+        "performance": 631386.9,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Anything Diffusion Inpainting",
+        "count": 1
+    },
+    {
+        "performance": 0.0,
+        "queued": 22020096.0,
+        "jobs": 1.0,
+        "eta": 10000,
+        "type": "image",
+        "name": "Anything v3",
+        "count": 1
+    },
+    {
+        "performance": 0.0,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "A to Zovya RPG",
+        "count": 1
+    },
+    {
+        "performance": 0.0,
+        "queued": 212336640.0,
+        "jobs": 6.0,
+        "eta": 10000,
+        "type": "image",
+        "name": "Babes",
+        "count": 1
+    },
+    {
+        "performance": 1106259.0,
+        "queued": 659660800.0,
+        "jobs": 27.0,
+        "eta": 99,
+        "type": "image",
+        "name": "BB95 Furry Mix",
+        "count": 6
+    },
+    {
+        "performance": 789771.2,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "BRA",
+        "count": 1
+    },
+    {
+        "performance": 740600.8,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "CamelliaMix 2.5D",
+        "count": 1
+    },
+    {
+        "performance": 2426968.3,
+        "queued": 32768000.0,
+        "jobs": 2.0,
+        "eta": 13,
+        "type": "image",
+        "name": "ChilloutMix",
+        "count": 1
+    },
+    {
+        "performance": 701231.1,
+        "queued": 26214400.0,
+        "jobs": 2.0,
+        "eta": 37,
+        "type": "image",
+        "name": "Counterfeit",
+        "count": 1
+    },
+    {
+        "performance": 0.0,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "CyberRealistic",
+        "count": 1
+    },
+    {
+        "performance": 938882.4,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Deliberate",
+        "count": 18
+    },
+    {
+        "performance": 1080008.6,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Deliberate 3.0",
+        "count": 2
+    },
+    {
+        "performance": 718331.5,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Deliberate Inpainting",
+        "count": 1
+    },
+    {
+        "performance": 812840.6,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Dreamlike Photoreal",
+        "count": 1
+    },
+    {
+        "performance": 653617.3,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Dreamshaper",
+        "count": 6
+    },
+    {
+        "performance": 524678.9,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Dungeons n Waifus",
+        "count": 1
+    },
+    {
+        "performance": 185866.5,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Edge Of Realism",
+        "count": 1
+    },
+    {
+        "performance": 1006355.9,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Epic Diffusion",
+        "count": 1
+    },
+    {
+        "performance": 639631.5,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Epic Diffusion Inpainting",
+        "count": 1
+    },
+    {
+        "performance": 545071.8,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "FaeTastic",
+        "count": 1
+    },
+    {
+        "performance": 630255.6,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Fluffusion",
+        "count": 1
+    },
+    {
+        "performance": 484384.0,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Furry Epoch",
+        "count": 2
+    },
+    {
+        "performance": 1575965.4,
+        "queued": 75694080.0,
+        "jobs": 3.0,
+        "eta": 24,
+        "type": "image",
+        "name": "Fustercluck",
+        "count": 2
+    },
+    {
+        "performance": 1992684.3,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "GhostMix",
+        "count": 1
+    },
+    {
+        "performance": 1022087.3,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Hentai Diffusion",
+        "count": 6
+    },
+    {
+        "performance": 3550320.4,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "HRL",
+        "count": 1
+    },
+    {
+        "performance": 1013123.0,
+        "queued": 117964800.0,
+        "jobs": 5.0,
+        "eta": 6,
+        "type": "image",
+        "name": "ICBINP - I Can't Believe It's Not Photography",
+        "count": 19
+    },
+    {
+        "performance": 1730026.5,
+        "queued": 82182144.0,
+        "jobs": 3.0,
+        "eta": 23,
+        "type": "image",
+        "name": "ICBINP XL",
+        "count": 2
+    },
+    {
+        "performance": 942241.3,
+        "queued": 12779520.0,
+        "jobs": 11.0,
+        "eta": 3,
+        "type": "image",
+        "name": "iCoMix",
+        "count": 4
+    },
+    {
+        "performance": 814926.3,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "iCoMix Inpainting",
+        "count": 1
+    },
+    {
+        "performance": 835909.9,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Inkpunk Diffusion",
+        "count": 2
+    },
+    {
+        "performance": 574197.0,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Lawlas's yiff mix",
+        "count": 2
+    },
+    {
+        "performance": 843140.6,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "MeinaMix",
+        "count": 1
+    },
+    {
+        "performance": 3272301.3,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "NeverEnding Dream",
+        "count": 2
+    },
+    {
+        "performance": 2102475.9,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "PFG",
+        "count": 1
+    },
+    {
+        "performance": 618723.2,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "PPP",
+        "count": 1
+    },
+    {
+        "performance": 1197609.2,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "RCNZ Gorilla With A Brick",
+        "count": 2
+    },
+    {
+        "performance": 1972300.1,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "RealBiter",
+        "count": 2
+    },
+    {
+        "performance": 0.0,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Realistic Vision",
+        "count": 1
+    },
+    {
+        "performance": 422676.5,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Rev Animated",
+        "count": 1
+    },
+    {
+        "performance": 468841.6,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "RPG",
+        "count": 1
+    },
+    {
+        "performance": 1023150.1,
+        "queued": 618659840.0,
+        "jobs": 25.0,
+        "eta": 120,
+        "type": "image",
+        "name": "SDXL 1.0",
+        "count": 5
+    },
+    {
+        "performance": 652658.3,
+        "queued": 33423360.0,
+        "jobs": 3.0,
+        "eta": 4,
+        "type": "image",
+        "name": "stable_diffusion",
+        "count": 11
+    },
+    {
+        "performance": 597746.3,
+        "queued": 8028160.0,
+        "jobs": 1.0,
+        "eta": 13,
+        "type": "image",
+        "name": "stable_diffusion_2.1",
+        "count": 1
+    },
+    {
+        "performance": 413328.8,
+        "queued": 36044800.0,
+        "jobs": 1.0,
+        "eta": 43,
+        "type": "image",
+        "name": "stable_diffusion_inpainting",
+        "count": 2
+    },
+    {
+        "performance": 626934.7,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "ToonYou",
+        "count": 1
+    },
+    {
+        "performance": 2545133.5,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "URPM",
+        "count": 1
+    },
+    {
+        "performance": 688590.8,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Western Animation Diffusion",
+        "count": 1
+    },
+    {
+        "performance": 548491.2,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Yiffy",
+        "count": 1
+    },
+    {
+        "performance": 356495.1,
+        "queued": 104857600.0,
+        "jobs": 8.0,
+        "eta": 294,
+        "type": "image",
+        "name": "Zack3D",
+        "count": 1
+    },
+    {
+        "performance": 553369.1,
+        "queued": 0.0,
+        "jobs": 0.0,
+        "eta": 0,
+        "type": "image",
+        "name": "Zeipher Female Model",
+        "count": 1
+    },
+    {
+        "performance": 0.0,
+        "queued": 85196800.0,
+        "jobs": 3.0,
+        "eta": 10000,
+        "type": "image",
+        "name": "Aurora",
+        "count": 0
+    },
+    {
+        "performance": 0.0,
+        "queued": 7864320.0,
+        "jobs": 1.0,
+        "eta": 10000,
+        "type": "image",
+        "name": "Dreamlike Diffusion",
+        "count": 0
+    },
+    {
+        "performance": 0.0,
+        "queued": 6553600.0,
+        "jobs": 1.0,
+        "eta": 10000,
+        "type": "image",
+        "name": "Poison",
+        "count": 0
+    },
+    {
+        "performance": 0.0,
+        "queued": 23592960.0,
+        "jobs": 2.0,
+        "eta": 10000,
+        "type": "image",
+        "name": "Realisian",
+        "count": 0
+    },
+    {
+        "performance": 0.0,
+        "queued": 21233664.0,
+        "jobs": 1.0,
+        "eta": 10000,
+        "type": "image",
+        "name": "Something",
+        "count": 0
+    }
+]

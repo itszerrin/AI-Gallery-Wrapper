@@ -1,0 +1,14 @@
+{
+    "GET": "/api/v2/generate/check/6135938d-aa48-4aab-af8f-3bd1ce622721 HTTP/1.1",
+    "Host": "stablehorde.net",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Referer": "https://aigallery.app/",
+    "Origin": "https://aigallery.app",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site"
+}

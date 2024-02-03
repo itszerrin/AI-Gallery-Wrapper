@@ -1,0 +1,16 @@
+{
+    "params": [
+        "steps",
+        "sampler_name",
+        "width",
+        "height",
+        "cfg_scale",
+        "seed_variation",
+        "seed",
+        "karras",
+        "denoising_strength",
+        "tiling",
+        "hires_fix",
+        "clip_skip"
+    ]
+}

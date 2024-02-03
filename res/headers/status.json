@@ -1,0 +1,14 @@
+{
+    "GET": "/stable-horde/f67f9a17-d72e-4112-925d-ad7130a019c3.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=246782cc9101762ba914350d8058cd83%2F20240203%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240203T125326Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d480fd823a4179bae4c5d110b924b9df9de3ce75c0e42d8a87d05b16a4e4528f HTTP/1.1",
+    "Host": "a223539ccf6caa2d76459c9727d276e6.r2.cloudflarestorage.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Referer": "https://aigallery.app/",
+    "Origin": "https://aigallery.app",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site"
+}
