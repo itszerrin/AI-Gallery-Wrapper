@@ -85,6 +85,7 @@ logger.info("Done. Getting image..")
 
 # get image
 api.get_image(save_path=args.output_directory, file_name=args.output_filename)
+logger.info(f"Saved Image under {args.output_directory}/{args.output_filename}.png")
 
                         
 
