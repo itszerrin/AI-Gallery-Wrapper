@@ -72,7 +72,7 @@ class API(object):
         config["post_processing"] = []
 
         data = {
-            "prompt": prompt,
+            "prompt": f"{prompt} ### {config['negative_prompt']}",
             "params": config,
             "nsfw": True,
             "censor_nsfw": False,
@@ -109,9 +109,6 @@ class API(object):
         except:
 
             return False
-
-        # check if model exists
-        return model in models
 
     def get_image(self, save_path: str, file_name: str) -> None:
 
