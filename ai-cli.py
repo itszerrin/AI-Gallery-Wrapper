@@ -29,6 +29,11 @@ try:
             logger.error("No models found in config file. Exiting..")
             exit()
 
+        # check for negative prompt. if not given, use empty
+        if "negative_prompt" not in config:
+            logger.warning("No negative prompt found. Using empty..")
+            config["negative_prompt"] = ""
+
         else:
 
             if api.model_exists(config["model"]) == False:
