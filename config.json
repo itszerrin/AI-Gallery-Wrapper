@@ -12,5 +12,6 @@
  "tiling": false,
  "hires_fix": false,
  "clip_skip": 1,
- "negative_prompt": "Bad anatomy, worst quality, bad composition, bad lighting, bad everything"
+ "negative_prompt": "",
+ "post_processing": []
 }
