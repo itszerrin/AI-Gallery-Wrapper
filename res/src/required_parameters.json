@@ -11,6 +11,7 @@
         "denoising_strength",
         "tiling",
         "hires_fix",
-        "clip_skip"
+        "clip_skip",
+        "post_processing"
     ]
 }
