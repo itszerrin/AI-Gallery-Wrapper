@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 import requests
 import json
 from fake_useragent import UserAgent
@@ -67,9 +65,7 @@ class API(object):
         
         # prepare request data
         model = config.pop("model")
-
         config["n"] = 1
-        config["post_processing"] = []
 
         data = {
             "prompt": f"{prompt} ### {config['negative_prompt']}",
