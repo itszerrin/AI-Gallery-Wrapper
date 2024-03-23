@@ -10,5 +10,6 @@
     "denoising_strength": 0.75,
     "tiling": false,
     "hires_fix": false,
-    "clip_skip": 1
+    "clip_skip": 1,
+    "post_processing": []
 }
